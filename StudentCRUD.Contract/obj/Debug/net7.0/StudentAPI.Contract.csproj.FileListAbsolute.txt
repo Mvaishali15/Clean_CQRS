@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Contract\bin\Debug\net7.0\StudentAPI.Contract.deps.json
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Contract\bin\Debug\net7.0\StudentAPI.Contract.dll
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Contract\bin\Debug\net7.0\StudentAPI.Contract.pdb
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Contract\obj\Debug\net7.0\StudentAPI.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Contract\obj\Debug\net7.0\StudentAPI.Contract.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Contract\obj\Debug\net7.0\StudentAPI.Contract.AssemblyInfo.cs
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Contract\obj\Debug\net7.0\StudentAPI.Contract.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Contract\obj\Debug\net7.0\StudentAPI.Contract.dll
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Contract\obj\Debug\net7.0\refint\StudentAPI.Contract.dll
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Contract\obj\Debug\net7.0\StudentAPI.Contract.pdb
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Contract\obj\Debug\net7.0\ref\StudentAPI.Contract.dll

@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "StudentAPI/1.0.0": {
+        "dependencies": {
+          "StudentAPI.Application": "1.0.0",
+          "StudentAPI.Contract": "1.0.0",
+          "StudentAPI.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "StudentAPI.dll": {}
+        }
+      },
+      "StudentAPI.Application/1.0.0": {
+        "dependencies": {
+          "StudentAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "StudentAPI.Application.dll": {}
+        }
+      },
+      "StudentAPI.Contract/1.0.0": {
+        "runtime": {
+          "StudentAPI.Contract.dll": {}
+        }
+      },
+      "StudentAPI.Domain/1.0.0": {
+        "runtime": {
+          "StudentAPI.Domain.dll": {}
+        }
+      },
+      "StudentAPI.Infrastructure/1.0.0": {
+        "dependencies": {
+          "StudentAPI.Application": "1.0.0"
+        },
+        "runtime": {
+          "StudentAPI.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentAPI.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentAPI.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentAPI.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

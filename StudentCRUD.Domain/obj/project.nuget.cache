@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FAUTcb0bnNkF3zfA8ehg4/PiYbngt13QkmVCYPui+DiHKKDpE5rVGR1blCAP3zTw0gidxjOzTFcoH3gV+bJcpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\Clean_CQRS\\StudentCRUD\\StudentCRUD.Domain\\StudentAPI.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

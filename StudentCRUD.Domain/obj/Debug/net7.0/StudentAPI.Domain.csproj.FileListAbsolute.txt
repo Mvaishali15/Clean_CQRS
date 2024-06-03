@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Domain\bin\Debug\net7.0\StudentAPI.Domain.deps.json
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Domain\bin\Debug\net7.0\StudentAPI.Domain.dll
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Domain\bin\Debug\net7.0\StudentAPI.Domain.pdb
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Domain\obj\Debug\net7.0\StudentAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Domain\obj\Debug\net7.0\StudentAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Domain\obj\Debug\net7.0\StudentAPI.Domain.AssemblyInfo.cs
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Domain\obj\Debug\net7.0\StudentAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Domain\obj\Debug\net7.0\StudentAPI.Domain.dll
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Domain\obj\Debug\net7.0\refint\StudentAPI.Domain.dll
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Domain\obj\Debug\net7.0\StudentAPI.Domain.pdb
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Domain\obj\Debug\net7.0\ref\StudentAPI.Domain.dll

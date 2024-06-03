@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Infrastructure\bin\Debug\net7.0\StudentAPI.Infrastructure.deps.json
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Infrastructure\bin\Debug\net7.0\StudentAPI.Infrastructure.dll
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Infrastructure\bin\Debug\net7.0\StudentAPI.Infrastructure.pdb
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Infrastructure\bin\Debug\net7.0\StudentAPI.Application.dll
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Infrastructure\bin\Debug\net7.0\StudentAPI.Domain.dll
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Infrastructure\bin\Debug\net7.0\StudentAPI.Application.pdb
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Infrastructure\bin\Debug\net7.0\StudentAPI.Domain.pdb
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Infrastructure\obj\Debug\net7.0\StudentAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Infrastructure\obj\Debug\net7.0\StudentAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Infrastructure\obj\Debug\net7.0\StudentAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Infrastructure\obj\Debug\net7.0\StudentAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Infrastructure\obj\Debug\net7.0\StudentAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Infrastructure\obj\Debug\net7.0\StudentA.10E59703.Up2Date
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Infrastructure\obj\Debug\net7.0\StudentAPI.Infrastructure.dll
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Infrastructure\obj\Debug\net7.0\refint\StudentAPI.Infrastructure.dll
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Infrastructure\obj\Debug\net7.0\StudentAPI.Infrastructure.pdb
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Infrastructure\obj\Debug\net7.0\ref\StudentAPI.Infrastructure.dll

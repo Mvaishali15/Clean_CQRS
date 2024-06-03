@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Application\bin\Debug\net7.0\StudentAPI.Application.deps.json
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Application\bin\Debug\net7.0\StudentAPI.Application.dll
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Application\bin\Debug\net7.0\StudentAPI.Application.pdb
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Application\bin\Debug\net7.0\StudentAPI.Domain.dll
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Application\bin\Debug\net7.0\StudentAPI.Domain.pdb
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Application\obj\Debug\net7.0\StudentAPI.Application.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Application\obj\Debug\net7.0\StudentAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Application\obj\Debug\net7.0\StudentAPI.Application.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Application\obj\Debug\net7.0\StudentAPI.Application.AssemblyInfo.cs
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Application\obj\Debug\net7.0\StudentAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Application\obj\Debug\net7.0\StudentA.772BE30B.Up2Date
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Application\obj\Debug\net7.0\StudentAPI.Application.dll
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Application\obj\Debug\net7.0\refint\StudentAPI.Application.dll
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Application\obj\Debug\net7.0\StudentAPI.Application.pdb
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD.Application\obj\Debug\net7.0\ref\StudentAPI.Application.dll

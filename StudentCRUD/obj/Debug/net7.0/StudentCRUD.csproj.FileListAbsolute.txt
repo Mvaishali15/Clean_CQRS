@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD\bin\Debug\net7.0\StudentCRUD.exe
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD\bin\Debug\net7.0\StudentCRUD.deps.json
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD\bin\Debug\net7.0\StudentCRUD.runtimeconfig.json
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD\bin\Debug\net7.0\StudentCRUD.dll
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD\bin\Debug\net7.0\StudentCRUD.pdb
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD\obj\Debug\net7.0\StudentCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD\obj\Debug\net7.0\StudentCRUD.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD\obj\Debug\net7.0\StudentCRUD.AssemblyInfo.cs
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD\obj\Debug\net7.0\StudentCRUD.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD\obj\Debug\net7.0\StudentCRUD.dll
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD\obj\Debug\net7.0\refint\StudentCRUD.dll
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD\obj\Debug\net7.0\StudentCRUD.pdb
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD\obj\Debug\net7.0\StudentCRUD.genruntimeconfig.cache
+C:\Users\admin\Desktop\Clean_CQRS\StudentCRUD\StudentCRUD\obj\Debug\net7.0\ref\StudentCRUD.dll
