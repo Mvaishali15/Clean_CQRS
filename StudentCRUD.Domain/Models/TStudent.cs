@@ -8,8 +8,6 @@ namespace StudentAPI.Domain.Models
 {
     public class TStudent
     {
-        //this is the user model
-
         public int StudentId { get; set; }
         public string? FirstName { get; set; }
         public string? LastName { get; set; }
